@@ -12,7 +12,7 @@
 - 💬 Ask me about **java , react js , PHP , laravel.**
 
 - 📫 How to reach me **kaveesha.hettige@gmail.com**
--  They call me **Hettiii.**
+- 🤣They call me **Hettiii.**
 <br>
   <hr>
 
