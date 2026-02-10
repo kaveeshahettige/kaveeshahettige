@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Kaveesha Hettige</h1>
-<h3 align="center">Intern Software Engineer & Undergraduate at the University of Colombo School of Computing.</h3>
+<h3 align="center">Software Engineer & Final Year Undergraduate at the University of Colombo School of Computing.</h3>
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaveeshahettige&label=Profile%20views&color=0e75b6&style=flat" alt="kaveeshahettige" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Smartshopper](https://github.com/UCSC-SmartShopper)
 
-- 🌱 I’m currently Pursuing a **BSc. (Hons.) in Information Systems at UCSC.**
+- 🌱 I’m currently pursuing a **BSc. (Hons.) in Information Systems at UCSC.**
 
-- 💬 Ask me about **java , react js , PHP , laravel.**
+- 💬 Ask me about **Java, Spring Boot, Node.js, React.js, PHP, Laravel.**
 
 - 📫 How to reach me **kaveesha.hettige@gmail.com**
 - 🤣They call me **Hettiii.**
